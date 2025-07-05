@@ -1,0 +1,14 @@
+build export-ignore
+
+.xmake export-ignore
+.vs export-ignore
+.vscode export-ignore
+.history export-ignore
+.cache export-ignore
+vsxmake* export-ignore
+
+docs/html export-ignore
+docs/latex export-ignore
+
+.gitignore        export-ignore
+.gitattributes    export-ignore

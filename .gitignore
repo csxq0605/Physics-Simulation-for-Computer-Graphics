@@ -1,0 +1,13 @@
+build
+
+.xmake
+.vs
+.vscode
+.history
+.cache
+vsxmake*
+
+docs/html
+docs/latex
+
+log/
